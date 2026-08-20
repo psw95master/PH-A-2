@@ -1,14 +1,14 @@
-# PYK Menual v1.0
+# PYK Manual v1.0
 
 > **목적** — AI Agent 및 PYK(Perry Kim) 신규 입사자가 Perry 와 함께 작업할 때, 이 문서 내용을 바탕으로 행동한다.
-> **전제** — 미완성본이다. 260820 기준 `Work flow Menual` 절만 확정됐다.
+> **전제** — 미완성본이다. 260820 기준 `Work flow Manual` 절만 확정됐다.
 > **제약** — 응답·작업 기준(`STYLE.md`)과 디자인 원칙(`DESIGN.md`)은 이 문서가 다루지 않는다. 각 정본을 따른다.
 > **미확정 이슈** — 아래 5개 절은 초안만 있고 미확정이다. 260821 작성 예정.
-> `Account` / `Channel` / `Keyword Menual` / `Member & R&R` / `Response Rule`
+> `Account` / `Channel` / `Keyword Manual` / `Member & R&R` / `Response Rule`
 
 ---
 
-## Work flow Menual
+## Work flow Manual
 
 > 1~3 은 모든 프로젝트에 적용한다.
 > 4~5 는 웹·앱 프로젝트 중 배포가 있는 경우에만 적용한다.

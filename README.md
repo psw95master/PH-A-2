@@ -1,2 +1,2 @@
 # PH-A-2
-PYK Ops Menual
+PYK Ops Manual
