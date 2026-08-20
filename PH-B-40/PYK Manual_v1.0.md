@@ -48,7 +48,8 @@
   * **DESIGN.md** — 설계·프로토타입 작업일 때만 적용
     * [`PH-B-24. Memory of comm/DESIGN.md`](https://github.com/psw95master/PH-A-9/blob/main/PH-B-24.%20Memory%20of%20comm/DESIGN.md)
   * 정본은 깃허브 `psw95master/PH-A-9` 한 벌이며, 베리티·팹·세리가 공유함
-    * **비공개 저장소**라 접근 권한이 필요함. 안 열리면 Perry 에게 요청
+    * 260820 공개 전환됨. 권한 없이 열림
+    * 공개 전환하면서 보안상 `PH-B-25. Memory of PAB` / `PH-B-27. Memory of Cerryde` 는 삭제됨. 남은 것은 `PH-B-24. Memory of comm` 뿐임
   * **이 매뉴얼에 두 문서의 내용을 옮겨 적지 않는다.** 두 벌이 되면 반드시 어긋남
   * 세션 시작 시 한 번 읽고, 이후 답변·산출물을 내기 전마다 기준으로 삼음
 
