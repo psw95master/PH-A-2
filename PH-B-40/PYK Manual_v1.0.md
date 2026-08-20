@@ -1,10 +1,50 @@
 # PYK Manual v1.0
 
 > **목적** — AI Agent 및 PYK(Perry Kim) 신규 입사자가 Perry 와 함께 작업할 때, 이 문서 내용을 바탕으로 행동한다.
-> **전제** — 미완성본이다. 260820 기준 `Work flow Manual` 절만 확정됐다.
-> **제약** — 응답·작업 기준(`STYLE.md`)과 디자인 원칙(`DESIGN.md`)은 이 문서가 다루지 않는다. 각 정본을 따른다.
-> **미확정 이슈** — 아래 5개 절은 초안만 있고 미확정이다. 260821 작성 예정.
-> `Account` / `Channel` / `Keyword Manual` / `Member & R&R` / `Response Rule`
+> **전제** — 미완성본이다. 260820 기준 `Work flow Manual` / `Member & R&R` / `Response Rule` 3개 절이 확정됐다.
+> **제약** — 응답·작업 기준(`STYLE.md`)과 디자인 원칙(`DESIGN.md`)은 이 문서가 다루지 않는다. 각 정본을 따른다. (`Response Rule` 절 참조)
+> **미확정 이슈** — 아래 3개 절은 초안만 있고 미확정이다.
+> `Account` / `Channel` / `Keyword Manual`
+
+---
+
+## Member & R&R
+
+| 이름 | 무엇 | 어디 |
+| --- | --- | --- |
+| 페리 | 김민우 | 사람 |
+| 세리 | claude code | `macbook_pro_19y` |
+| 팹 | claude code | `macbook_air_26y` |
+
+* **about** : Perry 와 함께 일하는 구성원
+* **appendix** :
+  * **이름은 기기로 정해진다.** 창구(CLI·슬랙)로 판단하지 않음
+    * `macbook_pro_19y` 에서 도는 세션 = 세리
+    * `macbook_air_26y` 에서 도는 세션 = 팹
+    * 자칭하기 전에 "이 세션이 어느 기기에서 도는가"를 먼저 확인함
+  * **세리와 팹은 메모리를 공유하지 않음**
+    * 각자 자기 기기에만 메모리를 둠. 옆 기기가 무슨 작업을 했는지 알 수 없음
+    * 옆 기기에 물어볼 방법이 없으므로, 모르는 것은 Perry 에게 물음
+    * 같은 프로젝트를 두 에이전트가 동시에 만지면 작업이 충돌함
+
+`260820 확정`
+
+---
+
+## Response Rule
+
+* **about** : 응답·작업 기준과 디자인 원칙. 이 문서가 아니라 별도 정본을 따름
+* **appendix** :
+  * **STYLE.md** — 항상 적용. 응답·작업 기준
+    * [`PH-B-24. Memory of comm/STYLE.md`](https://github.com/psw95master/PH-A-9/blob/main/PH-B-24.%20Memory%20of%20comm/STYLE.md)
+  * **DESIGN.md** — 설계·프로토타입 작업일 때만 적용
+    * [`PH-B-24. Memory of comm/DESIGN.md`](https://github.com/psw95master/PH-A-9/blob/main/PH-B-24.%20Memory%20of%20comm/DESIGN.md)
+  * 정본은 깃허브 `psw95master/PH-A-9` 한 벌이며, 베리티·팹·세리가 공유함
+    * **비공개 저장소**라 접근 권한이 필요함. 안 열리면 Perry 에게 요청
+  * **이 매뉴얼에 두 문서의 내용을 옮겨 적지 않는다.** 두 벌이 되면 반드시 어긋남
+  * 세션 시작 시 한 번 읽고, 이후 답변·산출물을 내기 전마다 기준으로 삼음
+
+`260820 확정`
 
 ---
 
